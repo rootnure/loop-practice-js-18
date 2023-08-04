@@ -27,7 +27,7 @@ for(var i = 0; i < items.length; i++){
     }
 }
  */
-/* 
+
 var numbers = [68, 49, 65, 16, 84, 98, 41, 36, 54, 78, 44];
  
 for (var i = 0; i < numbers.length; i++) {
@@ -37,4 +37,3 @@ for (var i = 0; i < numbers.length; i++) {
         break;
     }
 }
- */
